@@ -1,4 +1,4 @@
-Screen Sound
+# Screen Sound
 
 Projeto criado e desenvolvido em C#, utilizando o .Net17 e Visual Studio.
 Consiste em um banco aonde tem artistas musicais, pode adicionar novos, pode também avaliar e obter a média de notas que cada artirsta recebeu.
